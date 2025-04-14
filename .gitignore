@@ -1,0 +1,2 @@
+# Ignore Python-related files and directories
+__pycache__/
