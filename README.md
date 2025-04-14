@@ -33,13 +33,15 @@ The implemented approach achieved 86% cross-validation accuracy, comparing favor
 *Teams with challenge organization members (not ranked)
 
 ## Project Structure
+```
 ├── notebooks/
 │   └── heart_classification.ipynb  # Main analysis notebook
 ├── scripts/
-│   └── utils.py       # Optional helper scripts
+│   └── utils.py                    # Helper script
 ├── requirements.txt                # Dependencies
 ├── LICENSE
 └── README.md
+```
 
 ## Installation & Usage
 ```bash
